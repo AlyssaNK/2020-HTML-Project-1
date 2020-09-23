@@ -1,0 +1,28 @@
+<!-- This will be the file that your project's HTML will go in -->
+<html>
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head> 
+    <title>My Title</title> 
+    <meta charset="utf-8">
+    <title>Starter Web Page</title> Collectibles and where to find them
+  </head>
+  <body>
+    <table border="1" width="50%">
+      <tr>
+        <td colspan="2">Title</td>
+      </tr
+      <tr>
+        <td>Picture</td> 20200918_101528.jpg
+     
+      </tr>
+      <tr>
+        <td colspan="2""</td>
+      </tr>
+      <tr>
+        <td colspan="2">Picture</td>
+      </tr>
+
+    </table>
+  </body>
+</html>
