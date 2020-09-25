@@ -6,15 +6,11 @@ First HTML Project
 <html>
 <html lang="en" dir="ltr">
 	<h1>Collectibles</h1> 
-	
-	
-	<img src>
-		
    <meta charset="utf-8">
-    <title>Starter Web Page</title> <b> Collectibles and where to find them
+     <b> Collectibles and where to find them
   </head>
   <body>
-    <table border="1" width="50%">
+    <table border="1" width="100%">
       <tr>
         <td colspan="2">Title</td>
         <td>Picture</td> 
